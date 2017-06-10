@@ -1,9 +1,9 @@
 [0m[[0minfo[0m] [0m[32mFizzBuzzTest:[0m[0m
 [0m[[0minfo[0m] [0m[32mFizzBuzzTest[0m[0m
-[0m[[0minfo[0m] [0m[32m- should 1 to String 1[0m[0m
-[0m[[0minfo[0m] [0m[32mFizzBuzzTest[0m[0m
-[0m[[0minfo[0m] [0m[32m- should 2 to String 2[0m[0m
-[0m[[0minfo[0m] [0m[32mFizzBuzzTest[0m[0m
-[0m[[0minfo[0m] [0m[32m- should 3 to Fizz[0m[0m
-[0m[[0minfo[0m] [0m[32mFizzBuzzTest[0m[0m
-[0m[[0minfo[0m] [0m[32m- should 6 to Buzz[0m[0m
+[0m[[0minfo[0m] [0m[32m  Num[0m[0m
+[0m[[0minfo[0m] [0m[32m  - 1 to String 1[0m[0m
+[0m[[0minfo[0m] [0m[32m  - 2 to String 2[0m[0m
+[0m[[0minfo[0m] [0m[32m  Fizz[0m[0m
+[0m[[0minfo[0m] [0m[32m  - 3 to Fizz[0m[0m
+[0m[[0minfo[0m] [0m[32m  Buzz[0m[0m
+[0m[[0minfo[0m] [0m[32m  - 6 to Buzz[0m[0m
