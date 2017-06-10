@@ -4,15 +4,11 @@ import org.scalatest._
   * Created by madokan on 6/10/17.
   */
 class FizzBuzzTest extends FreeSpec with Matchers {
-  "FizzBuzzTest" - {
+  "Test of FizzBuzz" - {
     "Num" - {
       "1 to String 1" in {
         val fizzbuzz = new FizzBuzz()
         fizzbuzz.convert(1) should be ("1")
-      }
-      "2 to String 2" in {
-        val fizzbuzz = new FizzBuzz()
-        fizzbuzz.convert(2) should be ("2")
       }
     }
     "Fizz" - {
